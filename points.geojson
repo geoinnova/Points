@@ -208,6 +208,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          41.907822, 
+          -87.627299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           39.430145,
           -0.414757
         ]
