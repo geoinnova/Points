@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.0329716772193, 42.67334076790524]
+  },
+  "properties": {
+    "name": "Jesús Sánchez"
+  }
+}
