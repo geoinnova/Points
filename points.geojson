@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"name": "Jesús Sánchez"},
+      "properties": {},
       "geometry": {
         "type": "Point",
         "coordinates": [
