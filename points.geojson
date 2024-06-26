@@ -22,6 +22,17 @@
         41.44472180597465
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -7.554477,
+        43.008261
+      ]
+    }
   }
 ]
 }
