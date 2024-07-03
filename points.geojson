@@ -23,6 +23,17 @@
       ]
     }
   },
+{
+    "type": "Feature",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.500,
+        -3,667
+      ]
+    }
+  },
   {
     "type": "Feature",
     "properties": {},
