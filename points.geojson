@@ -33,6 +33,18 @@
         43.008261
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "name": "points_JordiValls",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.370395, 
+        1.772655
+      ]
+    }
   }
 ]
 }
