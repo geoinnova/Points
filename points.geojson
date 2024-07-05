@@ -48,3 +48,12 @@
   }
 ]
 }
+   "type": "Feature",
+    "name": "points_Javier",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.370398, 
+        1.772640
+        
