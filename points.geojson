@@ -45,6 +45,18 @@
         1.772655
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "name": "points_MartaCallejasD",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.433022, 
+        -3.674929
+      ]
+    }
   }
 ]
 }
