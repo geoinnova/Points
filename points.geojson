@@ -57,9 +57,8 @@
         -3.674929
       ]
     }
-  }
-]
-}
+  },
+  {
    "type": "Feature",
     "name": "points_Javier",
     "properties": {},
@@ -68,4 +67,20 @@
       "coordinates": [
         42.370398, 
         1.772640
-        
+      ]
+    }
+  },
+  {
+  "type": "Feature",
+  "name": "points_TeresaCarrascosa",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.433022, 
+      -2.674929
+    ]
+  }
+  }
+  ]
+}
