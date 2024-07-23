@@ -81,6 +81,18 @@
       -2.674929
     ]
   }
+  },
+  {
+  "type": "Feature",
+  "name": "points_JoseManuelMunozGuijarro",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.368306, 
+      2.130442
+    ]
+  }
   }
   ]
 }
