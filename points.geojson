@@ -93,6 +93,19 @@
       2.130442
     ]
   }
-  }
-  ]
+  },
+  {
+    "type": "Feature",
+    "name": "points_InesGalletly",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.68355, 
+        2.28946
+      ]
+    }
+  },
+  
+  
 }
