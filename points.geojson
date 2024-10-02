@@ -106,6 +106,18 @@
       ]
     }
   },
+  {
+    "type": "Feature",
+    "name": "points_RamonQuiros",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.912407, 
+        -6.351471
+      ]
+    }
+  },
   
   
 }
