@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+    "type": "Feature",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.76080244510678,
+        -120.23831050374764
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.39648,
+        42.14535
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -7.554477,
+        43.008261
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "name": "points_JordiValls",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.370395, 
+        1.772655
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "name": "points_MartaCallejasD",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.433022, 
+        -3.674929
+      ]
+    }
+  },
+  {
+   "type": "Feature",
+    "name": "points_Javier",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.370398, 
+        1.772640
+      ]
+    }
+  },
+  {
+  "type": "Feature",
+  "name": "points_TeresaCarrascosa",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.433022, 
+      -2.674929
+    ]
+  }
+  },
+  {
+  "type": "Feature",
+  "name": "points_JoseManuelMunozGuijarro",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.368306, 
+      2.130442
+    ]
+  }
+  },
+  {
+    "type": "Feature",
+    "name": "points_InesGalletly",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.68355, 
+        2.28946
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "name": "points_RamonQuiros",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.912407, 
+        -6.351471
+      ]
+    }
+  },
+  
+  
+}
