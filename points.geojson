@@ -106,6 +106,17 @@
       ]
     }
   },
-  
+  {
+  "type": "Feature",
+    "name": "points_RaidelRojas",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.26615683013948, 
+        26.665143091524556
+      ]
+    }
+  },
   
 }
