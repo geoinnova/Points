@@ -107,27 +107,16 @@
     }
   },
   {
-    "type": "Feature",
-    "name": "points_RamonQuiros",
+  "type": "Feature",
+    "name": "points_RaidelRojas",
     "properties": {},
     "geometry": {
       "type": "Point",
       "coordinates": [
-        38.912409, 
-        -6.351471
+        -80.26615683013948, 
+        26.665143091524556
       ]
     }
   },
-  {
-    "type": "Feature",
-    "name": "points_AmancioClemente",
-    "properties": {},
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        40.148665, -6.332939
-      ]
-    }
-  }
-  ]
+
 }
