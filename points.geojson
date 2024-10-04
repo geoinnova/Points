@@ -6,7 +6,7 @@
       "properties": {},
       "geometry": {
         "type": "Point",
-        "coordinates": [55.76080244510678, -120.23831050374764]
+        "coordinates": [-120.23831050374764, 55.76080244510678]
       }
     },
     {
@@ -31,7 +31,7 @@
       "properties": {},
       "geometry": {
         "type": "Point",
-        "coordinates": [42.370395, 1.772655]
+        "coordinates": [1.772655, 42.370395]
       }
     },
     {
@@ -40,9 +40,53 @@
       "properties": {},
       "geometry": {
         "type": "Point",
-        "coordinates": [40.433022, -3.674929]
+        "coordinates": [-3.674929, 40.433022]
       }
     },
     {
       "type": "Feature",
-      "name":
+      "name": "points_Javier",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.772640, 42.370398]
+      }
+    },
+    {
+      "type": "Feature",
+      "name": "points_TeresaCarrascosa",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.674929, 41.433022]
+      }
+    },
+    {
+      "type": "Feature",
+      "name": "points_JoseManuelMunozGuijarro",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.130442, 41.368306]
+      }
+    },
+    {
+      "type": "Feature",
+      "name": "points_InesGalletly",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.28946, 41.68355]
+      }
+    },
+    {
+      "type": "Feature",
+      "name": "points_RaidelRojas",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.26615683013948, 26.665143091524556]
+      }
+    }
+  ]
+}
