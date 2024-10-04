@@ -118,6 +118,16 @@
       ]
     }
   },
-  
-  
+  {
+    "type": "Feature",
+    "name": "points_AmancioClemente",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.148665, -6.332939
+      ]
+    }
+  }
+  ]
 }
