@@ -87,6 +87,14 @@
         "type": "Point",
         "coordinates": [-80.26615683013948, 26.665143091524556]
       }
+      {
+        "type": "Feature",
+        "name": "points_Beatriz_Elena_Jaramillo",
+        "properties": {},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.125090019024095, 41.522575912019036]
+        }
     }
   ]
 }
