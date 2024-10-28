@@ -105,6 +105,15 @@
       "type": "Point",
       "coordinates": [38.913802, -6.358069]
       }
-  }
+    },
+    {
+      "type": "Feature",
+      "name": "points_Pedro_Alcoba",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.0408018, -1.6663534]
+        }
+    }
   ]
 }
