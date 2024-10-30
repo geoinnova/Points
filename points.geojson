@@ -105,6 +105,15 @@
       "type": "Point",
       "coordinates": [38.913802, -6.358069]
       }
+  },
+  {
+    "type": "Feature",
+    "name": "points_Ismael_Rodriguez",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [39.66661170030546, 2.5811659573098287]
+      }
   }
   ]
 }
