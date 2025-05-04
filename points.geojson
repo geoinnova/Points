@@ -105,6 +105,15 @@
       "type": "Point",
       "coordinates": [38.913802, -6.358069]
       }
+  },
+  {
+    "type": "Feature",
+    "name": "points_Iker_Iñigo",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [43.2821372,-2.1743517]
+      }
   }
   ]
 }
