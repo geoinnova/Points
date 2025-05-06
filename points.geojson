@@ -27,6 +27,15 @@
     },
     {
       "type": "Feature",
+      "name": "points_LuisDeToro",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.896204, -4.758143]
+      }
+    },
+    {
+      "type": "Feature",
       "name": "points_JordiValls",
       "properties": {},
       "geometry": {
