@@ -114,6 +114,15 @@
       "type": "Point",
       "coordinates": [43.2821372,-2.1743517]
       }
+  },
+  {
+    "type": "Feature",
+    "name": "points_Jaime_Chico",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [39.447775, -5.021085]
+      }
   }
   ]
 }
