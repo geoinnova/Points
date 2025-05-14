@@ -6,7 +6,10 @@
       "properties": {},
       "geometry": {
         "type": "Point",
-        "coordinates": [37.8998808935238, -4.753202741603221]
+
+
+        "coordinates": [37.37294964894796, -5.976903053640101]
+
       }
     },
     {
@@ -104,6 +107,24 @@
     "geometry": {
       "type": "Point",
       "coordinates": [38.913802, -6.358069]
+      }
+  },
+  {
+    "type": "Feature",
+    "name": "points_Iker_Iñigo",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [43.2821372,-2.1743517]
+      }
+  },
+  {
+    "type": "Feature",
+    "name": "points_Jaime_Chico",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [39.447775, -5.021085]
       }
   }
   ]
