@@ -123,6 +123,15 @@
       "type": "Point",
       "coordinates": [39.447775, -5.021085]
       }
+  },
+  {
+    "type": "Feature",
+    "name": "points_Joaquin_Urruti",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-37.4564, -61.9243]
+      }
   }
   ]
 }
