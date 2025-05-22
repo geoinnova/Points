@@ -141,6 +141,15 @@
       "type": "Point",
       "coordinates": [43.3456, -5.8513]
       }
+  },
+  {
+    "type": "Feature",
+    "name": "points_Alazne",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-2.2852046588777544, 43.17308114506916]
+      }
   }
   ]
 }
