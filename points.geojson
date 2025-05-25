@@ -150,6 +150,15 @@
       "type": "Point",
       "coordinates": [-2.2852046588777544, 43.17308114506916]
       }
+  },
+  {
+    "type": "Feature",
+    "name": "points_Jose_Maria_Olmos",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-36.623502, -64.288586]
+      }
   }
   ]
 }
