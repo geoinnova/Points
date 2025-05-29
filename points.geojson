@@ -160,5 +160,15 @@
       "coordinates": [-36.623502, -64.288586]
       }
   }
+  {
+  "type": "Feature",
+  "properties": {
+    "name": "María Solano"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.48149, 38.3452]
+  }
+}
   ]
 }
