@@ -159,7 +159,7 @@
       "type": "Point",
       "coordinates": [-36.623502, -64.288586]
       }
-  }
+  },
   {
   "type": "Feature",
   "properties": {
@@ -168,6 +168,16 @@
   "geometry": {
     "type": "Point",
     "coordinates": [-0.48149, 38.3452]
+  }
+},
+ {
+  "type": "Feature",
+  "properties": {
+    "name": "Eduardo Martin"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.484295, 40.395200 ]
   }
 }
   ]
