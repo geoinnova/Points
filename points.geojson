@@ -187,6 +187,17 @@
     "type": "Point",
     "coordinates": [-3.484295, 40.395200 ]
   }
+},
+ {
+  "type": "Feature",
+  "properties": {
+    "name": "David Lopez"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.8710, 443.4534 ]
+  }
 }
+
   ]
 }
