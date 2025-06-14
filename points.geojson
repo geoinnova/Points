@@ -178,6 +178,15 @@
     "coordinates": [-0.48149, 38.3452]
   }
 },
+{
+    "type": "Feature",
+    "name": "Enol",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-6.329, 43.53]
+      }
+  },
  {
   "type": "Feature",
   "properties": {
@@ -198,6 +207,7 @@
     "coordinates": [-3.8710, 443.4534 ]
   }
 }
+
 
   ]
 }
