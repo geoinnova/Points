@@ -206,8 +206,17 @@
     "type": "Point",
     "coordinates": [-3.8710, 443.4534 ]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sebastián Zapata"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.900889, 41.671139 ]
+  }
 }
-
 
   ]
 }
