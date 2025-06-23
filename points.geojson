@@ -216,7 +216,16 @@
     "type": "Point",
     "coordinates": [-0.900889, 41.671139 ]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "name": "JMC"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.358336, 39.486517 ]
+  }
 }
-
   ]
 }
