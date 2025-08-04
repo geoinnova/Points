@@ -226,6 +226,16 @@
     "type": "Point",
     "coordinates": [-0.358336, 39.486517 ]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Elena_Ferreiro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.80673, 40.28492 ]
+  }
 }
   ]
 }
