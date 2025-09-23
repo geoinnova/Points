@@ -236,6 +236,17 @@
     "type": "Point",
     "coordinates": [-3.80673, 40.28492 ]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Clara Miguez"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.80750, 40.28600]
+  }
+
 }
   ]
 }
