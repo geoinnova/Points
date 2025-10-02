@@ -1,6 +1,15 @@
 {
   "type": "FeatureCollection",
   "features": [
+       {
+    "type": "Feature",
+    "name": "points_JavierNH",
+    "properties": {},
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -6.073621229661496, 40.04138149294307]
+      }
+  },
     {
       "type": "Feature",
       "properties": {},
@@ -159,6 +168,7 @@
       "coordinates": [-2.2852046588777544, 43.17308114506916]
       }
   },
+
   {
     "type": "Feature",
     "name": "points_Jose_Maria_Olmos",
