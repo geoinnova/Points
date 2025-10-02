@@ -257,6 +257,17 @@
     "coordinates": [-3.80750, 40.28600]
   }
 
-}
-  ]
+},
+ {
+  "type": "Feature",
+  "properties": {
+    "name": "Maria Pol"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [2.92494, 39.72741]
+  }
+
+} ]
+
 }
