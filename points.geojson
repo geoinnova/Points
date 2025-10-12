@@ -3,11 +3,11 @@
   "features": [
        {
     "type": "Feature",
-    "name": "points_JavierNH",
+    "name": "points_LG",
     "properties": {},
     "geometry": {
       "type": "Point",
-      "coordinates": [ -6.073621229661496, 40.04138149294307]
+      "coordinates": [ -7.073621229661496, 42.04138149294307]
       }
   },
     {
@@ -271,3 +271,4 @@
 } ]
 
 }
+
