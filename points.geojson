@@ -261,6 +261,16 @@
  {
   "type": "Feature",
   "properties": {
+    "name": "Javier-Gonzalez"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-8.358005, 43.321058]
+  }
+},
+ {
+  "type": "Feature",
+  "properties": {
     "name": "Maria Pol"
   },
   "geometry": {
