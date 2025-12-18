@@ -69,6 +69,15 @@
         "coordinates": [1.772640, 42.370398]
       }
     },
+	{
+      "type": "Feature",
+      "name": "Alberto-Sanchez",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.3985, 40.3626]
+      }
+    },
     {
       "type": "Feature",
       "name": "points_TeresaCarrascosa",
