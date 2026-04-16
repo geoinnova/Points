@@ -286,7 +286,16 @@
     "type": "Point",
     "coordinates": [2.92494, 39.72741]
   }
-
-} ]
+},
+ {
+  "type": "Feature",
+  "properties": {
+    "name": "Alejandro Loustaunau"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.916783,43.297215]
+  }
+}  ]
 
 }
