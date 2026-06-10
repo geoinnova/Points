@@ -296,6 +296,16 @@
     "type": "Point",
     "coordinates": [-2.916783,43.297215]
   }
-}  ]
+}
+ {
+  "type": "Feature",
+  "properties": {
+    "name": "Mikel Etxeberria"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.904132,43.315207]
+  }
+}]
 
 }
