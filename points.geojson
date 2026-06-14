@@ -296,7 +296,7 @@
     "type": "Point",
     "coordinates": [-2.916783,43.297215]
   }
-}
+},
  {
   "type": "Feature",
   "properties": {
@@ -306,6 +306,17 @@
     "type": "Point",
     "coordinates": [-1.904132,43.315207]
   }
-}]
+},
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "point_TEH"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.04544, 45.92365]
+      }
+  }
+]
 
 }
