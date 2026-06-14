@@ -306,6 +306,16 @@
     "type": "Point",
     "coordinates": [-1.904132,43.315207]
   }
+}
+ {
+  "type": "Feature",
+  "properties": {
+    "name": "Paula Mardones"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.486595,42.934120]
+  }
 }]
 
 }
