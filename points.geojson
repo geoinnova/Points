@@ -3,6 +3,19 @@
     "features": [
         {
             "type": "Feature",
+            "properties": {
+                "name": "Geoinnova"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.8012894,
+                    -1.6493864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "name": "points_JavierNH",
             "properties": {},
             "geometry": {
@@ -44,14 +57,6 @@
                     -0.39648,
                     42.14535
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "Point",
-                "coordinates": []
             }
         },
         {
