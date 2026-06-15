@@ -418,6 +418,19 @@
                     43.315207
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tabaré Martínez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.29000636681559, 
+                    -31.33454457341891
+                ]
+            }
         }
     ]
 }
