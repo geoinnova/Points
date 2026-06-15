@@ -1,311 +1,418 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-       {
-    "type": "Feature",
-    "name": "points_JavierNH",
-    "properties": {},
-    "geometry": {
-      "type": "Point",
-      "coordinates": [ -6.073621229661496, 40.04138149294307]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [37.37294964894796, -5.976903053640101]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.6856356993312334,40.44233481702256]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-0.39648, 42.14535]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": []
-      }
-    },
-    {
-      "type": "Feature",
-      "name": "points_JordiValls",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [1.772655, 42.370395]
-      }
-    },
-    {
-      "type": "Feature",
-      "name": "points_MartaCallejasD",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.674929, 40.433022]
-      }
-    },
-    {
-      "type": "Feature",
-      "name": "points_Javier",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [1.772640, 42.370398]
-      }
-    },
-	{
-      "type": "Feature",
-      "name": "Alberto-Sanchez",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.3985, 40.3626]
-      }
-    },
-    {
-      "type": "Feature",
-      "name": "points_TeresaCarrascosa",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-2.674929, 41.433022]
-      }
-    },
-    {
-      "type": "Feature",
-      "name": "points_JoseManuelMunozGuijarro",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [2.130442, 41.368306]
-      }
-    },
-    {
-      "type": "Feature",
-      "name": "points_InesGalletly",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [2.28946, 41.68355]
-      }
-    },
-    {
-      "type": "Feature",
-      "name": "points_RaidelRojas",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.26615683013948, 26.665143091524556]
-      }
-    },
-    {
-      "type": "Feature",
-      "name": "points_Beatriz_Elena_Jaramillo",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [2.125090019024095, 41.522575912019036]
-      }
-  },
-  {
-    "type": "Feature",
-    "name": "points_Manuel_Leon",
-    "properties": {},
-    "geometry": {
-      "type": "Point",
-      "coordinates": [38.913802, -6.358069]
-      }
-  },
-  {
-    "type": "Feature",
-    "name": "points_Iker_Iñigo",
-    "properties": {},
-    "geometry": {
-      "type": "Point",
-      "coordinates": [43.2821372,-2.1743517]
-      }
-  },
-  {
-    "type": "Feature",
-    "name": "points_Jaime_Chico",
-    "properties": {},
-    "geometry": {
-      "type": "Point",
-      "coordinates": [39.447775, -5.021085]
-      }
-  },
-  {
-    "type": "Feature",
-    "name": "points_Joaquin_Urruti",
-    "properties": {},
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-37.4564, -61.9243]
-      }
-  },
-  {
-    "type": "Feature",
-    "name": "points_Adrian_Castro",
-    "properties": {},
-    "geometry": {
-      "type": "Point",
-      "coordinates": [43.3456, -5.8513]
-      }
-  },
-  {
-    "type": "Feature",
-    "name": "points_Alazne",
-    "properties": {},
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-2.2852046588777544, 43.17308114506916]
-      }
-  },
-
-  {
-    "type": "Feature",
-    "name": "points_Jose_Maria_Olmos",
-    "properties": {},
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-36.623502, -64.288586]
-      }
-  },
-  {
-  "type": "Feature",
-  "properties": {
-    "name": "María Solano"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-0.48149, 38.3452]
-  }
-},
-{
-    "type": "Feature",
-    "name": "Enol",
-    "properties": {},
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-6.329, 43.53]
-      }
-  },
- {
-  "type": "Feature",
-  "properties": {
-    "name": "Eduardo Martin"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-3.484295, 40.395200 ]
-  }
-},
- {
-  "type": "Feature",
-  "properties": {
-    "name": "David Lopez"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-3.8710, 443.4534 ]
-  }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "Sebastián Zapata"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-0.900889, 41.671139 ]
-  }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "JMC"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-0.358336, 39.486517 ]
-  }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "Elena_Ferreiro"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-3.80673, 40.28492 ]
-  }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "Clara Miguez"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-3.80750, 40.28600]
-  }
-
-},
- {
-  "type": "Feature",
-  "properties": {
-    "name": "Javier-Gonzalez"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-8.358005, 43.321058]
-  }
-},
- {
-  "type": "Feature",
-  "properties": {
-    "name": "Maria Pol"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [2.92494, 39.72741]
-  }
-},
- {
-  "type": "Feature",
-  "properties": {
-    "name": "Alejandro Loustaunau"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-2.916783,43.297215]
-  }
-}
- {
-  "type": "Feature",
-  "properties": {
-    "name": "Mikel Etxeberria"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-1.904132,43.315207]
-  }
-}]
-
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "name": "points_JavierNH",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.073621229661496,
+                    40.04138149294307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.37294964894796,
+                    -5.976903053640101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6856356993312334,
+                    40.44233481702256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39648,
+                    42.14535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_JordiValls",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.772655,
+                    42.370395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_MartaCallejasD",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.674929,
+                    40.433022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_Javier",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.772640,
+                    42.370398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "Alberto-Sanchez",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.3985,
+                    40.3626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_TeresaCarrascosa",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.674929,
+                    41.433022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_JoseManuelMunozGuijarro",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.130442,
+                    41.368306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_InesGalletly",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.28946,
+                    41.68355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_RaidelRojas",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.26615683013948,
+                    26.665143091524556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_Beatriz_Elena_Jaramillo",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.125090019024095,
+                    41.522575912019036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_Manuel_Leon",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.913802,
+                    -6.358069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_Iker_Iñigo",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2821372,
+                    -2.1743517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_Jaime_Chico",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.447775,
+                    -5.021085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_Joaquin_Urruti",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -37.4564,
+                    -61.9243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_Adrian_Castro",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.3456,
+                    -5.8513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_Alazne",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2852046588777544,
+                    43.17308114506916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "points_Jose_Maria_Olmos",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -36.623502,
+                    -64.288586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "María Solano"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.48149,
+                    38.3452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "Enol",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.329,
+                    43.53
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eduardo Martin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.484295,
+                    40.395200
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "David Lopez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8710,
+                    443.4534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sebastián Zapata"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.900889,
+                    41.671139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JMC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.358336,
+                    39.486517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Elena_Ferreiro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.80673,
+                    40.28492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clara Miguez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.80750,
+                    40.28600
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Javier-Gonzalez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.358005,
+                    43.321058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maria Pol"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.92494,
+                    39.72741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alejandro Loustaunau"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.916783,
+                    43.297215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Juan-Llorens"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    754309.736337286303751,
+                    4273474.427083162590861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mikel Etxeberria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.904132,
+                    43.315207
+                ]
+            }
+        }
+    ]
 }
