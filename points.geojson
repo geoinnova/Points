@@ -432,5 +432,18 @@
                 ]
             }
         }
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maria Merino"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.635,
+                    42.762
+                ]
+            }
+        }
     ]
 }
