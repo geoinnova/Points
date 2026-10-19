@@ -431,7 +431,7 @@
                     40.12987
                 ]
             }
-        }
+        },
         {
             "type": "Feature",
             "properties": {
@@ -442,6 +442,19 @@
                 "coordinates": [
                     -1.635,
                     42.762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cristina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.451461, 
+                    -3.707989
                 ]
             }
         }
