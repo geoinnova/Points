@@ -457,6 +457,19 @@
                     -3.707989
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tono Astrain - Pamplona"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6440,
+                    42.8169
+                ]
+            }
         }
     ]
 }
